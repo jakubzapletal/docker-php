@@ -1,4 +1,4 @@
-# Ubuntu dockerfile
+# PHP dockerfile
 
 
 
